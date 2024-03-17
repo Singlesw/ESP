@@ -1,4 +1,4 @@
-Sample output:
+# Sample output:
 
 Flash size: 4194304 bytes
 
