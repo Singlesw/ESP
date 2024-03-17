@@ -1,8 +1,7 @@
 # Sample output:
 
        Flash size: 4194304 bytes
-
-Free heap:346116
+       Free heap:346116
 
 MAC Address = 48:e7:29:3d:07:50 (ret: 0)
 
