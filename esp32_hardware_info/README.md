@@ -1,3 +1,5 @@
+Sample output:
+
 Flash size: 4194304 bytes
 
 Free heap:346116
